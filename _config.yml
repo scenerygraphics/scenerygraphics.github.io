@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "First Lastname"
   avatar : "/assets/images/scenery-logo.png"
-  bio    : "The blog on all things scenery and sciview""
+  bio    : "The blog on all things scenery and sciview"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
